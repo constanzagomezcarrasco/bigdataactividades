@@ -1,3 +1,3 @@
 ## bigdataactividades
 Actividades del curso hhhh
-verficar soucetree
+Verificar en sourcetree
